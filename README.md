@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nallamprashanth
 - 👀 I’m interested in Javascript and Angula JS
 - 🌱 I’m currently learning ...HTML,CSS,JQuery..etc
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... JavaScript, Nodejs and Angular JS
 - 📫 How to reach me ...Please mail at nallamprashanth@gmail.com
 
 <!---
